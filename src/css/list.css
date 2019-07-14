@@ -1,0 +1,23 @@
+.LA{
+    width: 99%;
+    margin: 0 auto;
+    height: 700px;
+    max-width: 1530px;
+    background-color:rgb(143, 192, 231);
+    opacity: 0.9;
+    overflow: hidden;
+    
+}
+.nav{
+    margin: 0 auto;  
+}
+.ant-spin-show-text{
+    background-color:rgb(143, 192, 231);
+}
+.push{
+    position: relative;
+    width:200px;
+    height: 50px;
+    bottom: 52px;
+    left: 15px;
+}

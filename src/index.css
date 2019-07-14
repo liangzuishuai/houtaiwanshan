@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.active {
+    color: rgb(21, 224, 231);
+}
+#components-form-demo-normal-login .login-form {
+    max-width: 380px;
+}
+#components-form-demo-normal-login .login-form-forgot {
+    float: right;
+}
+  #components-form-demo-normal-login .login-form-button {
+    width: 100%;
+}
+.From{
+    max-width: 380px;
+    margin: 0 auto;
+    padding: 20px;
+    padding-top: 30px;
+    width:100%;
+    background-color: rgba(144, 199, 219, 0.9);
+    border-radius: 5px;
+    opacity: 0.9;
+}
+.ant-form label {
+    font-size: 14px;
+    float: left;
+}
+.login-form-forgot{
+    float: right;
+}
+.sss .ant-btn-primary{
+    max-width: 380px;
+    width:100%;
+}
+.header{
+    background-color:rgb(143, 192, 231);
+}

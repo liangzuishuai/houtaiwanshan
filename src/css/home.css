@@ -1,0 +1,20 @@
+.sss{
+    background-image: url(http://img.zcool.cn/community/01702e568643f66ac7251bb6e5d788.jpg@1280w_1l_2o_100sh.jpg);
+    background-repeat: no-repeat;
+    backface-visibility: unset;
+    background-size: 100%;
+    background-position: center;
+    height: 750px;
+    width: 100%;
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+    background-repeat: no-repeat;
+    backface-visibility: unset;
+    background-size: 100%;
+    background-position: center;
+}

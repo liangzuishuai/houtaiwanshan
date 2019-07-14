@@ -1,0 +1,31 @@
+.nav{
+    width:100%;
+    max-width: 1530px;
+    background-color:rgb(143, 192, 231);
+    opacity: 0.9;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+}
+.active{
+    color: white;
+}
+body,html{
+    background-color:rgba(0, 0, 0, 0.5);
+}
+.TX{
+    margin-right: 260px;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+}
+.img{
+    width:50px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
